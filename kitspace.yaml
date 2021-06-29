@@ -1,0 +1,4 @@
+bom: rigol-psu-usb-type-c-adapter.kicad_pcb
+eda:
+  type: kicad
+  pcb: rigol-psu-usb-type-c-adapter.kicad_pcb
