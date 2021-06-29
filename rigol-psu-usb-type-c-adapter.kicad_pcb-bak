@@ -488,6 +488,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model ${KIPRJMOD}/lib/3rdparty/usb_typec_16pin.step
+      (offset (xyz 0 2.2 1.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -180 0 0))
+    )
   )
 
   (module Connector_USB:USB_C_Receptacle_Palconn_UTC16-G (layer F.Cu) (tedit 5CF432E0) (tstamp 60DAACC2)
@@ -568,6 +573,11 @@
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/lib/3rdparty/usb_typec_16pin.step
+      (offset (xyz 0 2.2 1.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -180 0 0))
     )
   )
 
