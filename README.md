@@ -19,4 +19,7 @@ This board is 5V only. No PD negotiation supported.
 
 The fabrication files inside `fab` are JLCPCB-ready. Leave settings at default but select
 ENIG surface finish and specify order number location for best results. Also remember to
-choose your favourite PCB color ;)
+choose your favourite PCB color ;)  
+
+The zip archive does also contain all files required for JLC assembly. So you can also order
+fully assembled boards from JLC.
